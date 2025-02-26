@@ -2,8 +2,8 @@
   "name": "TEST",
   "symbol": "TEST",
   "description": "A test token on Solana",
-  "image": "https://raw.githubusercontent.com/yourusername/my-solana-token/main/assets/logo.png",
-  "external_url": "https://twitter.com/your_twitter_handle",
+  "image": "https://raw.githubusercontent.com/LeChef/my-solana-token/main/assets/logo.png",
+  "external_url": "https://twitter.com/HansEck_",
   "attributes": [
     {
       "trait_type": "Type",
